@@ -73,7 +73,7 @@ body {
   
   // speaker
   #speaker {
-    position: absolute;
+    position: absolute; 
     top: 0px;
     left: 50%;
     z-index: 2;
