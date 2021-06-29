@@ -27,7 +27,7 @@ body {
   background-size: cover;
   background-position: center;
 }
-
+ 
 #main {
   min-height: 100vh; 
   display: flex;
